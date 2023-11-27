@@ -1,0 +1,49 @@
+/* for tablets  */
+@media only screen and (max-width: 767px) {
+    .calculator {
+        margin: 10px; 
+    }
+    .calculator h1 {
+        font-size: 40px; 
+    }
+    .input-box {
+        margin: 20px 0;
+        padding: 20px;
+    }
+    .input-box input {
+        font-size: 16px; 
+    }
+    .input-box button {
+        padding: 12px 24px; 
+    }
+     
+}
+
+/* for mobiles */
+@media only screen and (max-width: 425px){
+    .calculator {
+        margin: 0px; 
+        padding: 10px;
+    }
+    .calculator h1 {
+        font-size: 30px; 
+    }
+    .input-box {
+        margin: 20px 0;
+        padding: 0px;
+        background: transparent;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
