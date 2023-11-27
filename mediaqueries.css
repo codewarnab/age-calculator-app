@@ -20,7 +20,7 @@
 }
 
 /* for mobiles */
-@media only screen and (max-width: 425px){
+@media only screen and (max-width: 435px){
     .calculator {
         margin: 0px; 
         padding: 10px;
