@@ -22,13 +22,14 @@
 /* for mobiles */
 @media only screen and (max-width: 435px){
     .calculator {
-        margin: 0px; 
+        margin-top: 25vh; 
         padding: 10px;
     }
     .calculator h1 {
         font-size: 30px; 
     }
     .input-box {
+        
         margin: 20px 0;
         padding: 0px;
         background: transparent;
